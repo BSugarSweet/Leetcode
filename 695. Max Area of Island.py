@@ -24,4 +24,3 @@ class Solution:
                                 seen.add((new_x, new_y))
                     max_area = max(max_area, area)
         return max_area
-        
